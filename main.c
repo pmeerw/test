@@ -1,2 +1,4 @@
+#include "work.h"
+
 main() {
 }
